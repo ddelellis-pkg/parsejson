@@ -1,4 +1,4 @@
-package  github.com/ddelellis-pkg/parsejson
+package parsejson
 import (
 	"os"
 	"encoding/json"
